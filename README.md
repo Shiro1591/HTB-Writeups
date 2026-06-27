@@ -3,7 +3,7 @@
 Colección de writeups de máquinas de HackTheBox, parte de mi portfolio de ciberseguridad.
 
 ## Sobre mí
-[Mauro Vento — en preparación para certificaciones eJPT, Security+, PNPT y OSCP.
+Mauro Vento — en preparación para certificaciones eJPT, Security+, PNPT y OSCP.
 
 ## Máquinas resueltas
 
